@@ -1,0 +1,18 @@
+User{
+    email
+    pw
+    name
+    locale
+}
+Elect{
+    owner
+    matchone
+    matchtwo
+    category
+    electper
+    oneper
+    twoper
+    locale
+}
+
+
