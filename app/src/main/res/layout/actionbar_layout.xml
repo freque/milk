@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:background="#90caf9">
+
+    <ImageButton
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:background="@drawable/back_key"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="5dp"/>
+
+    <ImageView
+        android:layout_centerInParent="true"
+        android:layout_width="45dp"
+        android:layout_height="40dp"
+        android:background="@drawable/action_icon" />
+
+    <ImageButton
+        android:background="#fff"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_alignParentRight="true"/>
+
+</RelativeLayout>
